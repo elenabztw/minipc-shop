@@ -73,7 +73,8 @@ Slider supports swipe gestures on touch devices
 
 ## Screenshots
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/eebce011-87fe-4731-9558-ef6391cdc870" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/41791843-e43a-48c3-8c00-e98c3296422a" />
+
 
 ## Contributing
 
